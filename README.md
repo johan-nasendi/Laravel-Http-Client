@@ -9,7 +9,7 @@ Before getting started, you should ensure that you have installed the Guzzle pac
 
 ## Project setup
 ```
-Git Clone 
+Git Clone https://github.com/johan-nasendi/Laravel-Http-Client.git
 ```
 
 ### Install vendor composer
