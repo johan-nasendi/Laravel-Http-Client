@@ -29,5 +29,5 @@ php artisan serve
 ```
 
 ### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+See [Configuration Reference](https://laravel.com/docs/9.x/http-client#main-content).
 
