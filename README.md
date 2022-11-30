@@ -32,7 +32,7 @@ php artisan serve
 See [Configuration Reference](https://laravel.com/docs/9.x/http-client#main-content).
 
 
-### Run
+### Reference
 ```
 [1]. https://www.youtube.com/watch?v=duqP6tWp-R0&list=LL&index=2&t=533s
 [2]. https://www.youtube.com/watch?v=VI4jYtYhuJU&list=LL&index=2
